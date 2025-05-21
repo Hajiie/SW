@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_21.0.6.v20250130-0529" stamp="1741254722000"/>
+    <entry loc="/Users/seonghui/Library/Java/JavaVirtualMachines/corretto-21.0.4/Contents/Home" stamp="1727242661994"/>
+    <entry loc="/Users/seonghui/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home" stamp="1704168901306"/>
+    <entry loc="/Users/seonghui/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home" stamp="1730704112902"/>
+    <entry loc="/Users/seonghui/Library/Java/JavaVirtualMachines/openjdk-20/Contents/Home" stamp="1691138941583"/>
+    <entry loc="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_21.0.6.v20250130-0529/jre" stamp="1741254722000"/>
+    <entry loc="/Users/seonghui/Library/Java/JavaVirtualMachines/corretto-17.0.12/Contents/Home" stamp="1727244268239"/>
+    <entry loc="/opt/homebrew/Cellar/openjdk@17/17.0.14/libexec/openjdk.jdk/Contents/Home" stamp="1736022318000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/amazon-corretto-8.jdk/Contents/Home" stamp="1689289238000"/>
+    <entry loc="/Users/seonghui/Library/Java/JavaVirtualMachines/openjdk-23/Contents/Home" stamp="1727239907691"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home" stamp="1691139763282"/>
+</dirs>
